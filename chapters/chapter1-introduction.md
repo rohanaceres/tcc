@@ -4,12 +4,10 @@ Em 2015, na sede da ONU de Nova Iorque, aconteceu um encontro entre todos os pa�
 
 Dentre os 17 objetivos identificados, o 11º é descrito como "tornar as cidades e os assentamentos humanos inclusivos, seguros, resilientes e sustentáveis", chamando atenção para as taxas alarmantes de emissão de gases residuais principalmente em áreas urbanas. Em 2015 foi registrado que metade da população mundial vive em grandes cidades e a previsão para 2030 é que essa porcentagem suba para 60%. Ou seja, as cidades, que ocupam aproximadamente apenas 2% da área do planeta irão abrigar 60% da humanidade, consumindo 80% da energia produzida e causando 75% da emissão de gases poluentes na atmosfera. 
 
-No Brasil, o crescimento desgovernado nas metrópoles tem ameaçado a infraestrutura não planejada, enfatizando problemas como oferta de água potável, esgoto, saúde pública, transporte, poluição e qualidade de vida em geral.  
+No Brasil, o crescimento desgovernado nas metrópoles tem ameaçado a infraestrutura não planejada, enfatizando problemas como oferta de água potável, esgoto, saúde pública, transporte, poluição e qualidade de vida em geral. Em 2016, segundo uma pesquisa implementada pela Organização Mundial da Saúde (OMS), 92% da população mundial está exposta a níveis alarmantes de poluição e 7 à 8 milhões de pessoas morrem devido à degradação ambiental - sendo 4,3 milhões relacionadas ao uso da madeira, carvão e biomassa, e 3,7 milhões aos gases residuais liberados por veículos automotores.
 
-relatórios oficiais de meio ambiente da ONU
-Construção do MIS 100% sustentável: http://www.mis.rj.gov.br/sustentabilidade/
+De acordo com a OMS, os problemas constantemente relacionados à exposição constante de poluentes são o AVC, problemas respiratórios, diabetes, doenças cardiovasculares, câncer e infertilidade. 
 
-* TODO: Saúde
 * TODO: Poluição ambinetal
 * TODO: Comparação de poluição em Niterói, baixada fluminense, região oceânica, Petrópolis
 * TODO: Como as bicicletas influenciam os problemas de sustentabilidade e saúde
