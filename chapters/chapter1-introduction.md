@@ -24,4 +24,12 @@ Esta pesquisa utilizará o método dedutivo, desenvolvendo cadeias de raciocíni
 
 Para alcançar este propósito, será criado um protótipo com o Arduino Trinket, principalmente por ser uma placa pequena, de fácil implementação e com diversas portas I/O, possibilitando flexibilidade na inclusão dos sensores. O protótipo será planejado baseado em redes LoRa. Estas são redes sem fio de alto alcance e baixo consumo de energia, criadas especificamente para promover a comunicação entre dispositivos embarcados (IoT). Com isso, é possível acessar os dados captados por cada usuário em tempo real.
 
-* TODO: Breve descrição de cada capítulo do trabalho
+Os capítulos deste trabalho se disporão na seguinte ordem:
+
+Capítulo | Descrição
+--- | ---
+1 | `// TODO`
+2 | `// TODO`
+3 | `// TODO`
+4 | `// TODO`
+5 | `// TODO`
