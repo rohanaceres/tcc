@@ -19,4 +19,7 @@ Algumas cidades europeias, percebendo a importância de transportes alternativos
 Além de usada como meio de transporte, a bicicleta é boa para a saúde, sendo considerada uma das melhores técnicas para prevenir e tratar a hipertensão, o infarto do miocárdio e o colesterol alto.
 
 * TODO: Breve descrição do trabalho, metodologia empregada, tecnologia proposta (microcontroladores, LoRa, web)
+
+Este trabalho tem como objetivo mensurar a quantidade de ar poluino inalado, em média, pelo ciclista carioca de regiões urbanas. Para isso, utilizará o método dedutivo, desenvolvendo cadeias de raciocínio com premissas bem definidas, para chegar a uma conslusão clara e objetiva. Além disso, este trabalho consiste em uma pesquisa aplicada qualitativa descritiva, ou seja, visa resolver um problema prático específico; analisar os dados, suas relações e impactos de forma intuitiva; e envolver estratégias de coleta de dados através de sensores.
+
 * TODO: Breve descrição de cada capítulo do trabalho
