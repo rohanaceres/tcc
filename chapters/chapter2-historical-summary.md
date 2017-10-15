@@ -35,17 +35,17 @@ Reduções potenciais da exposição à poluição das separações das pistas d
 - TODO: Introdução
 - TODO: Conclusão
 
-TODO: Pesquisar artigo 4
+Planejamento de rota de viagem para sistemas de compartilhamento de bicicletas (Novembro 2016) 
 - TODO: Abstract
 - TODO: Introdução
 - TODO: Conclusão
 
-TODO: Pesquisar artigo 5
+TODO: Pesquisar artigo 5 (LoRa)
 - TODO: Abstract
 - TODO: Introdução
 - TODO: Conclusão
 
-TODO: Pesquisar artigo 6
+TODO: Pesquisar artigo 6 (LoRa)
 - TODO: Abstract
 - TODO: Introdução
 - TODO: Conclusão
