@@ -10,7 +10,11 @@ De acordo com a OMS, os problemas constantemente relacionados à exposição con
 
 Quando gases ou partículas emitidos pela ação humana atingem concentrações suficientemente altas que causam danos diretos à população, seja ela humana ou não, um requisito básico para o bem estar de todos é negligenciado.
 
-`TODO: Fazer gráfico com os dados http://jeap.rio.rj.gov.br/je-metinfosmac/boletim?data=11/9/2017`
+O projeto estadual MonitorAR Rio coleta dados de emissão de gases poluentes desde 2010, nas regiões Centro, Copacabana, São Cristóvão, Tijuca, Irajá, Bangu, Campo Grande, Pedra de Guaratiba e Recreio. Em 2011 e 2012, os seguintes dados referentes a taxa de gases poluentes coletados foram:
+
+![](../img/chapter1-img1.png)
+
+![](../img/chapter1-img2.png)
 
 Dentro dessa perspectiva, voltados para a questão da qualidade do ar e do impacto gerado pelo trânsito, urbanistas de todo o mundo se reuniram para discutir e desenvolver programas urbanísticos de baixo nível de agressão ambiental, bem como buscar definir um desenvolvimento socioeconômico que melhore e não destrua o meio ambiente natural e construído.
 
