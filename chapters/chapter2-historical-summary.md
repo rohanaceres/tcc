@@ -46,10 +46,13 @@ Neste estudo, foi empregado o uso de três bicicletas que viajam em uníssono pa
 
 Os dados foram analisados sob a forma de modelos lineares de efeitos mistos, com posição do ciclista (distância da borda da faixa de tráfego mais próxima), velocidade do vento e temperatura, tendo efeitos estatisticamente significativos nas exposições médias (p <0,05). A exposição média às UFPs e ao CO foi aproximadamente 20-30% (p <0,01) mais baixa na calçada e 40-50% menor no caminho, do que na estrada (p <0,01). Esses resultados destacam os benefícios de exposição potencial de ciclos de segregação, o que ajuda a informar o planejamento urbano. A separação das pistas do ciclo nas rotas-chave poderia ajudar a reduzir a ingestão cumulativa de poluentes dos ciclistas, especialmente em estradas com grande tráfego.
 
-Planejamento de rota de viagem para sistemas de compartilhamento de bicicletas (Novembro 2016) 
-- TODO: Abstract
-- TODO: Introdução
-- TODO: Conclusão
+## Planejamento de rota de viagem para sistemas de compartilhamento de bicicletas (Novembro 2016) 
+
+Os sistemas de compartilhamento de bicicletas (BSSs) que oferecem usos de bicicletas compartilhadas ao público estão se tornando cada vez mais populares hoje em dia. Nos sistemas de compartilhamento de bicicletas, as pessoas podem emprestar e devolver bicicletas em qualquer estação de bicicleta na região do serviço, mas o tempo de viagem livre geralmente é limitado. Portanto, para viagens de bicicleta de longa distância, os indivíduos precisam pré-agendar a rota de viagem de bicicleta com antecedência e mudar a bicicleta dentro do tempo de viagem livre, de modo que não serão cobradas taxas de horas extras. 
+
+Neste artigo, foi estudado o problema do planejamento da rota de viagem para os indivíduos ao usar os sistemas de compartilhamento de bicicletas. Dada a origem e o destino da viagem, foi necessário identificar a rota de viagem ideal desde a origem até o destino através das estações de bicicleta. Para resolver o problema, foi realizada uma análise minuciosa sobre um BSS existente, Divvy, lançado em Chicago. 
+
+Com base nos resultados da análise, uma nova estrutura de planejamento de rotas de bicicleta "BSSs Based Trip Route Planning" (STOP) foi proposta para identificar a rota de viagem ideal, mapeando o problema em um problema de fluxo de rede de custo mínimo. Experimentos extensivos realizados em conjuntos de dados do sistema de compartilhamento de bicicleta do mundo real demonstram a eficácia do STOP.
 
 TODO: Pesquisar artigo 5 (LoRa)
 - TODO: Abstract
