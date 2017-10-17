@@ -44,7 +44,7 @@ No Brasil, mais especificamente no Rio de Janeiro, o programa *Rio - Estado da B
 
 ## Contexto que originou o problema
 
-TODO: Detalhar o contexto que originou o problema que o TCC está se propondo a resolver/mitigar.
+Em relação a poluição do ar, as pesquisas comprovaram que ciclistas são mais suscetíveis a inalar maiores doses de NO2 (dióxido de nitrogénio), mas ainda existem outros tipos de substâncias que devem ter seus impactos analisados, portanto, com o aumento dos ciclistas, mais pessoas podem ser expostas sem ter como base o risco em relação a este fato, por outra via as mesmas poderão ser os princiais agentes para obtenção dos dados e mudança do quadro.
 
 # Estado da arte
 
@@ -100,7 +100,9 @@ A exposição à poluição do ar pode ter graves impactos na saúde, especialme
 
 O estudo abordou esta questão usando dados precisos de GPS e acelerômetro de 7 dias em 180 participantes com idade entre 58 e 65 anos que vivem em Ghent (Bélgica). A concentração de NO2 para a Bélgica está disponível a partir de um modelo de regressão do uso da terra. São utilizados três métodos para calcular a dose inalada de NO2. O primeiro método é o método estático tradicional, usando apenas a concentração de NO2 na localização inicial. O segundo método incorpora comportamento de viagem usando dados de GPS, observando assim a concentração de NO2 na localização exata do participante. O terceiro método incorpora adicionalmente os dados do acelerômetro e estima o modo de transporte utilizado e a atividade física para calcular a taxa de ventilação. Ao incorporar a localização geográfica, as diferenças na dose inalada de NO2 dependem da concentração de NO2 no local de origem e do comportamento de viagem individual. Ao incorporar adicionalmente a taxa de ventilação, a dose inalada de NO2 aumenta em mais de 12%. Além de comparar estes três métodos entre si, a influência do modo de transporte é testada. 
 
-O ciclismo está associado ao aumento das doses inaladas de NO2 em relação a outros modos. É importante para a avaliação do impacto da saúde e estudos epidemiológicos incorporar comportamentos individuais de viagem e atividade física para medir a dose inalada de poluição do ar, e isso pode ser feito com precisão usando dados de GPS e acelerômetro.
+O ciclismo está associado ao aumento das doses inaladas de NO2 em relação a outros modos. O NO2 é um gás irritante para os pulmões e diminui a resistência às infecções respiratórias. Os efeitos às exposições de curto prazo ainda não são bem conhecidos, mas a exposição continuada ou frequente a níveis relativamente elevados pode provocar tendência para problemas respiratórios em crianças e grupos de risco como os asmáticos.
+
+É importante para a avaliação do impacto da saúde e estudos epidemiológicos incorporar comportamentos individuais de viagem e atividade física para medir a dose inalada de poluição do ar, e isso pode ser feito com precisão usando dados de GPS e acelerômetro.
 
 ...
 
