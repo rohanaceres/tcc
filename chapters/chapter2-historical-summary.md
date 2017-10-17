@@ -3,10 +3,6 @@
 > “Aqueles que não podem lembrar o passado estão condenados a repeti-lo”
 > -- George Santayana
 
-## Contexto que originou o problema
-
-TODO: Detalhar o contexto que originou o problema que o TCC está se propondo a resolver/mitigar.
-
 ## Pesquisas de medição da poluição
 
 ### Efeitos da poluição do ar na mortalidade respiratória infantil em quatro grandes cidades latino-americanas - (Setembro 2017)
@@ -37,6 +33,10 @@ Os resultados mostraram que os acordes variaram com o tamanho, a forma e a veloc
 
 ## Uso de transporte alternativo
 TODO: Pesquisar em alguns países e no Brasil
+
+## Contexto que originou o problema
+
+TODO: Detalhar o contexto que originou o problema que o TCC está se propondo a resolver/mitigar.
 
 # Estado da arte
 
