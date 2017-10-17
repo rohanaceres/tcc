@@ -20,7 +20,12 @@ Essas cidades recebem quase 43 milhões de pessoas e os níveis de poluição es
 Foram verificadas estimativas de impacto de mortalidade comparáveis de poluentes atmosféricos em todas essas cidades e grupos etários. Esta informação é importante porque muitas políticas públicas destinadas a prevenir os efeitos adversos da poluição na saúde consideram as crianças como o grupo populacional que merece a maior proteção.
 
 ### Hotspots de carbono preto e PM2.5 em uma área urbana relacionados com as características do tráfego - (Novembro 2016)
-TODO: Resumo
+
+Três bicicletas instrumentadas foram usadas para medir as concentrações de carbono preto (BC) e PM2.5 em uma cidade de médio porte no sul do Brasil. O objetivo deste estudo foi mapear a distribuição espacial de BC e PM2.5, identificar hotspots de poluição do ar e avaliar fatores que possam afetar as concentrações desses poluentes, p.ex. volume de tráfego, número de veículos diesel pesados (HDDV), posição dos sinais de trânsito e inclinação da rua. 
+
+Os ciclistas coletaram dados no centro da cidade ao longo de ruas de diferentes densidades de tráfego durante nove sessões de amostragem nas horas da manhã e da tarde, entre 13 de março e 28 de abril de 2015. A amostragem em bicicleta abrangeu uma área de 2,70 km2, sobre elevação variável, e percorreu uma distância total de 215 km. BC e PM2.5 exibindo uma grande variabilidade espacial em uma escala de dezenas de metros e as concentrações foram positivamente correlacionadas com as contagens de tráfego, mas apresentaram uma relação mais forte com o número de HDDV. 
+
+Esses resultados implicam que ônibus antigos e caminhões diesel podem ser o principal motor de trás dos altos níveis de poluição no núcleo interno da cidade. Observamos uma forte relação entre as concentrações de BC nas junções geridas pelos sinais de trânsito e a quantidade de HDDV. A concentração média de BC foi de 8,10 μg m-3 perto de sinais de trânsito localizados em uma rua inclinada (HDDV> 100 veículos h-1) em comparação com sinais de trânsito em terreno plano (6,00 μg m-3), o que pode ser atribuído a a maior aceleração necessária no início do movimento. Esse padrão foi menos evidente para as concentrações de PM2.5.
 
 ### Efeitos do veículo em movimento acende na dispersão de poluentes dentro de um túnel rodoviário - (Novembro 2016)
 TODO: Resumo
