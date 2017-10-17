@@ -20,7 +20,7 @@ TODO: Introdução
 
 Serão mostrados abaixo alguns artigos relacionados ao tema proposto, onde serão apresentados o contexto e as tecnologias utilizadas atualmente.
 
-Hotspots de emissões urbanas: Quantificando o congestionamento do veículo e a poluição do ar usando dados de GPS do telefone celular - (Outubro 2017)
+## Hotspots de emissões urbanas: Quantificando o congestionamento do veículo e a poluição do ar usando dados de GPS do telefone celular - (Outubro 2017)
 
 As emissões na estrada variam amplamente em escalas de tempo tão baixas como minutos e escalas de comprimento tão baixas quanto dezenas de metros. Os dados detalhados sobre as emissões a essas escalas são um pré-requisito para quantificar com precisão as concentrações de poluição ambiental e identificar hotspots de exposição humana em áreas urbanas. 
 
