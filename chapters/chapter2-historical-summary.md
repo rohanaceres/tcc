@@ -21,9 +21,12 @@ TODO: Introdução
 Serão mostrados abaixo alguns artigos relacionados ao tema proposto, onde serão apresentados o contexto e as tecnologias utilizadas atualmente.
 
 Hotspots de emissões urbanas: Quantificando o congestionamento do veículo e a poluição do ar usando dados de GPS do telefone celular - (Outubro 2017)
-- TODO: Abstract
-- TODO: Introdução
-- TODO: Conclusão
+
+As emissões na estrada variam amplamente em escalas de tempo tão baixas como minutos e escalas de comprimento tão baixas quanto dezenas de metros. Os dados detalhados sobre as emissões a essas escalas são um pré-requisito para quantificar com precisão as concentrações de poluição ambiental e identificar hotspots de exposição humana em áreas urbanas. 
+
+Para isso, foi construído um inventário altamente resolvido de fluxos horários de CO, NO2, NOx, PM2.5 e CO2 de veículos rodoviários em 280.000 segmentos rodoviários no leste de Massachusetts para o ano de 2012. O inventário integra um grande banco de dados de velocidades horárias do veículo derivadas do celular e dados do GPS do veículo com vários conjuntos de dados regionais de fluxos de veículos, características da frota e meteorologia local. Foram quantificadas as emissões de "excesso" do congestionamento do tráfego, encontrando um aumento modesto do congestionamento (3-6%) em escalas regionais, mas centenas de pontos locais com emissões anuais altamente elevadas (até 75% para estradas individuais em corredores chave). As reduções impulsionadas pelo congestionamento na economia de combustível do veículo exigiram um consumo excessivo de 113 milhões de galões de combustível para motores, no valor de US $ 415 milhões, mas isso representou apenas 3,5% do combustível total consumido em Massachusetts, já que mais de 80% da viagem do veículo ocorre em condições não conjugadas. No domínio de estudo apresentado, as emissões são altamente concentradas espacialmente, com 70% de poluição originária de apenas 10% das estradas. 
+
+O Inventário Nacional de Emissões (NEI) da EPA de 2011 entende as emissões agregadas de NOx, PM2.5 e CO2 em 46%, 38% e 18%, respectivamente. No entanto, as emissões de CO concordam dentro de 5% para os dois inventários, sugerindo que os grandes preconceitos nas emissões de NOx e PM2.5 resultam de diferenças nas estimativas da atividade do veículo diesel. Ao fornecer informações detalhadas sobre hotspots de emissão locais e padrões de emissões regionais, a estrutura do inventário é compatível com intervenções de tráfego direcionadas, benchmarking transparente e melhorias na qualidade global do ar urbano.
 
 Características e aplicações de monitores pequenos, e portáteis, de poluição do ar - (Abril 2017)
 - TODO: Abstract
