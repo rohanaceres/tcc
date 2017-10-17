@@ -28,10 +28,15 @@ Para isso, foi construído um inventário altamente resolvido de fluxos horário
 
 O Inventário Nacional de Emissões (NEI) da EPA de 2011 entende as emissões agregadas de NOx, PM2.5 e CO2 em 46%, 38% e 18%, respectivamente. No entanto, as emissões de CO concordam dentro de 5% para os dois inventários, sugerindo que os grandes preconceitos nas emissões de NOx e PM2.5 resultam de diferenças nas estimativas da atividade do veículo diesel. Ao fornecer informações detalhadas sobre hotspots de emissão locais e padrões de emissões regionais, a estrutura do inventário é compatível com intervenções de tráfego direcionadas, benchmarking transparente e melhorias na qualidade global do ar urbano.
 
-Características e aplicações de monitores pequenos, e portáteis, de poluição do ar - (Abril 2017)
-- TODO: Abstract
-- TODO: Introdução
-- TODO: Conclusão
+## Características e aplicações de monitores pequenos, e portáteis, de poluição do ar - (Abril 2017)
+
+As abordagens tradicionais para medir a qualidade do ar com base em medidas fixas são inadequadas para o monitoramento da exposição pessoal. Para combater esta questão, o uso de tecnologias pequenas e portáteis de monitoramento da poluição atmosférica está aumentando, com pesquisadores e indivíduos que utilizam métodos móveis e portáteis para obter dados de poluição atmosférica mais espaciais e temporariamente representativos. No entanto, muitas opções comercialmente disponíveis são criadas para várias aplicações e baseadas em diferentes tecnologias, pressupostos e limitações. Não existe uma revisão das características do monitor de monitores pequenos e gasosos na literatura científica atual.
+
+Uma revisão de última geração de monitores portáteis pequenos que medem poluentes externos ao ar ambiente foi desenvolvida para abordar as tendências amplas nos últimos 5-10 anos e para ajudar futuros pesquisadores, interessados em estudar poluentes atmosféricos, a escolher monitores apropriados para suas necessidades de aplicação e amostragem.
+
+As tendências das utilizações pequenas e portáteis de monitorização da poluição do ar foram identificadas e discutidas em uma revisão da literatura. Em seguida, pesquisas de bancos de dados on-line foram realizadas para artigos contendo informações específicas relacionadas ao desempenho, características e uso de tais monitores que medem um ou mais dos três poluentes atmosféricos: ozônio, dióxido de nitrogênio e monóxido de carbono. Todos os dados foram resumidos em tabelas de referência para comparação entre aplicativos, recursos físicos, capacidades de detecção e custos dos dispositivos.
+
+As recentes tendências de monitoramento portátil estão fortemente relacionadas aos aplicativos e públicos associados. A pesquisa fundamental requer monitores com o melhor desempenho individual e, portanto, a tecnologia de custo mais alto. Monitorar redes favorece as capacidades em tempo real e o custo moderado para uma maior reprodução. Cidadania e aplicações de crowdsourcing permitem componentes de baixo custo; Entretanto, os pontos fortes e as limitações importantes para cada aplicativo devem ser endereçados ou reconhecidos para o uso especificado.
 
 Reduções potenciais da exposição à poluição das separações das pistas de bicicleta de curta distância - (Março 2017)
 - TODO: Abstract
