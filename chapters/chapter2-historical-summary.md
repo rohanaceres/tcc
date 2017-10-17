@@ -1,8 +1,6 @@
 # Breve resumo histórico
 
 TODO: Detalhar o contexto que originou o problema que o TCC está se propondo a resolver/mitigar.
-Avaliação dinâmica da poluição atmosférica inalada usando dados de GPS e acelerômetro - (Março 2016)
-TODO: Resumo
 
 Pesquisas de medição da poluição
 Efeitos da poluição do ar na mortalidade respiratória infantil em quatro grandes cidades latino-americanas - (Setembro 2017)
@@ -54,10 +52,13 @@ Neste artigo, foi estudado o problema do planejamento da rota de viagem para os 
 
 Com base nos resultados da análise, uma nova estrutura de planejamento de rotas de bicicleta "BSSs Based Trip Route Planning" (STOP) foi proposta para identificar a rota de viagem ideal, mapeando o problema em um problema de fluxo de rede de custo mínimo. Experimentos extensivos realizados em conjuntos de dados do sistema de compartilhamento de bicicleta do mundo real demonstram a eficácia do STOP.
 
-TODO: Pesquisar artigo 5 (LoRa)
-- TODO: Abstract
-- TODO: Introdução
-- TODO: Conclusão
+## Avaliação dinâmica da poluição atmosférica inalada usando dados de GPS e acelerômetro - (Março 2016)
+
+A exposição à poluição do ar pode ter graves impactos na saúde, especialmente para os idosos. Para estimar a dose inalada de poluição do ar, tradicionalmente apenas a concentração de poluição do ar no local de residência é considerada, sem incorporar comportamento de viagem individual e atividade física. Isso pode levar a um viés na avaliação do impacto da saúde e nos estudos epidemiológicos, possivelmente subestimando a exposição à poluição do ar e desinformando os formuladores de políticas. 
+
+O estudo abordou esta questão usando dados precisos de GPS e acelerômetro de 7 dias em 180 participantes com idade entre 58 e 65 anos que vivem em Ghent (Bélgica). A concentração de NO2 para a Bélgica está disponível a partir de um modelo de regressão do uso da terra. São utilizados três métodos para calcular a dose inalada de NO2. O primeiro método é o método estático tradicional, usando apenas a concentração de NO2 na localização inicial. O segundo método incorpora comportamento de viagem usando dados de GPS, observando assim a concentração de NO2 na localização exata do participante. O terceiro método incorpora adicionalmente os dados do acelerômetro e estima o modo de transporte utilizado e a atividade física para calcular a taxa de ventilação. Ao incorporar a localização geográfica, as diferenças na dose inalada de NO2 dependem da concentração de NO2 no local de origem e do comportamento de viagem individual. Ao incorporar adicionalmente a taxa de ventilação, a dose inalada de NO2 aumenta em mais de 12%. Além de comparar estes três métodos entre si, a influência do modo de transporte é testada. 
+
+O ciclismo está associado ao aumento das doses inaladas de NO2 em relação a outros modos. É importante para a avaliação do impacto da saúde e estudos epidemiológicos incorporar comportamentos individuais de viagem e atividade física para medir a dose inalada de poluição do ar, e isso pode ser feito com precisão usando dados de GPS e acelerômetro.
 
 TODO: Pesquisar artigo 6 (LoRa)
 - TODO: Abstract
