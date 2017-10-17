@@ -3,9 +3,12 @@
 > “Aqueles que não podem lembrar o passado estão condenados a repeti-lo”
 > -- George Santayana
 
+## Contexto que originou o problema
+
 TODO: Detalhar o contexto que originou o problema que o TCC está se propondo a resolver/mitigar.
 
-Pesquisas de medição da poluição
+## Pesquisas de medição da poluição
+
 Efeitos da poluição do ar na mortalidade respiratória infantil em quatro grandes cidades latino-americanas - (Setembro 2017)
 TODO: Resumo
 Hotspots de carbono preto e PM2.5 em uma área urbana relacionados com as características do tráfego - (Novembro 2016)
@@ -13,7 +16,7 @@ TODO: Resumo
 Efeitos do veículo em movimento acende na dispersão de poluentes dentro de um túnel rodoviário - (Novembro 2016)
 TODO: Resumo
 
-Uso de transporte alternativo
+## Uso de transporte alternativo
 TODO: Pesquisar em alguns países e no Brasil
 
 # Estado da arte
@@ -62,7 +65,7 @@ O estudo abordou esta questão usando dados precisos de GPS e acelerômetro de 7
 
 O ciclismo está associado ao aumento das doses inaladas de NO2 em relação a outros modos. É importante para a avaliação do impacto da saúde e estudos epidemiológicos incorporar comportamentos individuais de viagem e atividade física para medir a dose inalada de poluição do ar, e isso pode ser feito com precisão usando dados de GPS e acelerômetro.
 
-TODO: Pesquisar artigo 6 (LoRa)
+## TODO: Pesquisar artigo 6 (LoRa)
 - TODO: Abstract
 - TODO: Introdução
 - TODO: Conclusão
