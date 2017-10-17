@@ -14,9 +14,11 @@ Uso de transporte alternativo
 TODO: Pesquisar em alguns países e no Brasil
 
 # Estado da arte
-TODO: Introdução
 
-Serão mostrados abaixo alguns artigos relacionados ao tema proposto, onde serão apresentados o contexto e as tecnologias utilizadas atualmente.
+> “Aqueles que não podem lembrar o passado estão condenados a repeti-lo”
+> -- George Santayana
+
+O estado da arte é um momento importante do documento, pois mostra pesquisas relevantes, que já foram desenvolvidas, relacionadas ao tema, dando um ponto de partida para o projeto, logo, abaixo iremos apresentar o contexto atual, através de artigos e pesquisas relacionados ao tema proposto, onde serão referenciadas as tecnologias utilizadas atualmente:
 
 ## Hotspots de emissões urbanas: Quantificando o congestionamento do veículo e a poluição do ar usando dados de GPS do telefone celular - (Outubro 2017)
 
@@ -65,4 +67,4 @@ TODO: Pesquisar artigo 6 (LoRa)
 - TODO: Introdução
 - TODO: Conclusão
 
-TODO: Conclusão
+Conforme os artigos apresentados, podemos verificar que até o presente momento pesquisas foram realizadas para encontrar os níveis de poluição as quais os seres humanos são expostos, levando em consideração os tipos de poluentes do ar, localização geográfica, faixa etária e atividades físicas dos indivíduos, isso foi possível através de redes sem fio, sensores ambientais, GPSs (Sistema de Posicionamento global) e acelerômetros, muitas vezes encontrados em celulares e veículos. Além disso as informações geradas, e transmitidas a longas distâncias, também auxiliaram na realização de análises, onde foi possível verificar, através de métodos de regressão linear e grafos, as possibilidades de melhoria na urbanização, qualidade do ar em determinadas regiões, planejamento de rotas em tempo real e redução de gastos com taxas extras em sistemas de compartilhamento de bicicletas.
