@@ -1,5 +1,8 @@
 # Breve resumo histórico
 
+> “Aqueles que não podem lembrar o passado estão condenados a repeti-lo”
+> -- George Santayana
+
 TODO: Detalhar o contexto que originou o problema que o TCC está se propondo a resolver/mitigar.
 
 Pesquisas de medição da poluição
@@ -15,10 +18,7 @@ TODO: Pesquisar em alguns países e no Brasil
 
 # Estado da arte
 
-> “Aqueles que não podem lembrar o passado estão condenados a repeti-lo”
-> -- George Santayana
-
-O estado da arte é um momento importante do documento, pois mostra pesquisas relevantes, que já foram desenvolvidas, relacionadas ao tema, dando um ponto de partida para o projeto, logo, abaixo iremos apresentar o contexto atual, através de artigos e pesquisas relacionados ao tema proposto, onde serão referenciadas as tecnologias utilizadas atualmente:
+O estado da arte é um momento importante do documento, pois mostra as pesquisas mais recentes e relevantes, que foram desenvolvidas, relacionadas ao tema, dando um ponto de partida para o projeto, logo, abaixo iremos apresentar o contexto atual, através de artigos e pesquisas relacionados ao tema proposto, onde serão referenciadas as tecnologias utilizadas atualmente:
 
 ## Hotspots de emissões urbanas: Quantificando o congestionamento do veículo e a poluição do ar usando dados de GPS do telefone celular - (Outubro 2017)
 
