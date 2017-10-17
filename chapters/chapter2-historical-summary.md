@@ -9,11 +9,20 @@ TODO: Detalhar o contexto que originou o problema que o TCC está se propondo a 
 
 ## Pesquisas de medição da poluição
 
-Efeitos da poluição do ar na mortalidade respiratória infantil em quatro grandes cidades latino-americanas - (Setembro 2017)
+### Efeitos da poluição do ar na mortalidade respiratória infantil em quatro grandes cidades latino-americanas - (Setembro 2017)
+
+A poluição do ar é uma importante preocupação de saúde pública, especialmente para crianças particularmente suscetíveis. A América Latina tem uma grande população infantil, é altamente urbanizada e os níveis de poluição são substancialmente altos, o que dificulta o impacto potencial da poluição atmosférica na saúde. Portanto, foi analisado o efeito da poluição do ar sobre a mortalidade respiratória infantil em quatro grandes centros urbanos: Cidade do México, Santiago, Chile, São Paulo e Rio de Janeiro no Brasil.
+
+Os modelos de aditivos generalizados na regressão de Poisson foram utilizados para ajustar as séries temporais diárias de mortalidade por doenças respiratórias em lactentes e crianças e níveis de PM10 e O3. Foram explorados modelos de atraso de desaceleração de polinômios limitados únicos e desfasados. As análises foram realizadas para cada faixa etária e cada cidade. A meta-análise de efeitos fixos e aleatórios foi realizada de modo a combinar os resultados específicos da cidade em uma única estimativa de resumo.
+
+Essas cidades recebem quase 43 milhões de pessoas e os níveis de poluição estavam acima das diretrizes da OMS. Para PM10, o aumento percentual do risco de morte devido a doenças respiratórias em lactentes em um modelo de efeito fixo foi de 0,47% (0,09-0,85). Para as mortes respiratórias em crianças de 1-5 anos, o aumento de risco foi de 0,58% (0,08-1,08), observando-se maior efeito nas infecções respiratórias inferiores (LRI) em crianças de 1 a 14 anos [1,38% (0,91-1,85). )]. Para O3, a única estimativa resumida estatisticamente significante foi para LRI em lactentes. A análise por temporada mostrou efeitos de O3 na estação quente para doenças respiratórias em lactentes, enquanto os efeitos negativos foram observados para as mortes respiratórias e LRI em crianças.
+
+Foram verificadas estimativas de impacto de mortalidade comparáveis de poluentes atmosféricos em todas essas cidades e grupos etários. Esta informação é importante porque muitas políticas públicas destinadas a prevenir os efeitos adversos da poluição na saúde consideram as crianças como o grupo populacional que merece a maior proteção.
+
+### Hotspots de carbono preto e PM2.5 em uma área urbana relacionados com as características do tráfego - (Novembro 2016)
 TODO: Resumo
-Hotspots de carbono preto e PM2.5 em uma área urbana relacionados com as características do tráfego - (Novembro 2016)
-TODO: Resumo
-Efeitos do veículo em movimento acende na dispersão de poluentes dentro de um túnel rodoviário - (Novembro 2016)
+
+### Efeitos do veículo em movimento acende na dispersão de poluentes dentro de um túnel rodoviário - (Novembro 2016)
 TODO: Resumo
 
 ## Uso de transporte alternativo
