@@ -38,10 +38,13 @@ As tendências das utilizações pequenas e portáteis de monitorização da pol
 
 As recentes tendências de monitoramento portátil estão fortemente relacionadas aos aplicativos e públicos associados. A pesquisa fundamental requer monitores com o melhor desempenho individual e, portanto, a tecnologia de custo mais alto. Monitorar redes favorece as capacidades em tempo real e o custo moderado para uma maior reprodução. Cidadania e aplicações de crowdsourcing permitem componentes de baixo custo; Entretanto, os pontos fortes e as limitações importantes para cada aplicativo devem ser endereçados ou reconhecidos para o uso especificado.
 
-Reduções potenciais da exposição à poluição das separações das pistas de bicicleta de curta distância - (Março 2017)
-- TODO: Abstract
-- TODO: Introdução
-- TODO: Conclusão
+## Reduções potenciais da exposição à poluição das separações das pistas de bicicleta de curta distância - (Março 2017)
+
+Muitos estudos compararam a exposição dos ciclistas àqueles que tomaram outros modos de transporte e compararam as diferenças de exposição entre rotas de ruas e estradas principais. 
+
+Neste estudo, foi empregado o uso de três bicicletas que viajam em uníssono para amostrar concentrações de partículas ultrafinas (UFPs), monóxido de carbono (CO) e partículas finas (PM1.0) a três distâncias diferentes do fluxo de tráfego, em uma área central do parque da cidade de Christchurch, Nova Zelândia. Pesquisas similares foram feitas usando equipamentos estacionários, mas isso pode não representar com precisão as diferenças de exposição ao se mover com um fluxo de veículos. Três ciclistas estavam equipados com um conjunto de instrumentos idênticos e montaram continuamente ao longo de uma estrada, a calçada da estrada (a 7 metros) e um caminho off-road (19 metros), durante um total de 6 h e 45 minutos, 5 amostras da tarde ocorreram durante o outono. 
+
+Os dados foram analisados sob a forma de modelos lineares de efeitos mistos, com posição do ciclista (distância da borda da faixa de tráfego mais próxima), velocidade do vento e temperatura, tendo efeitos estatisticamente significativos nas exposições médias (p <0,05). A exposição média às UFPs e ao CO foi aproximadamente 20-30% (p <0,01) mais baixa na calçada e 40-50% menor no caminho, do que na estrada (p <0,01). Esses resultados destacam os benefícios de exposição potencial de ciclos de segregação, o que ajuda a informar o planejamento urbano. A separação das pistas do ciclo nas rotas-chave poderia ajudar a reduzir a ingestão cumulativa de poluentes dos ciclistas, especialmente em estradas com grande tráfego.
 
 Planejamento de rota de viagem para sistemas de compartilhamento de bicicletas (Novembro 2016) 
 - TODO: Abstract
