@@ -76,6 +76,16 @@ Neste artigo, foi estudado o problema do planejamento da rota de viagem para os 
 
 Com base nos resultados da análise, uma nova estrutura de planejamento de rotas de bicicleta "BSSs Based Trip Route Planning" (STOP) foi proposta para identificar a rota de viagem ideal, mapeando o problema em um problema de fluxo de rede de custo mínimo. Experimentos extensivos realizados em conjuntos de dados do sistema de compartilhamento de bicicleta do mundo real demonstram a eficácia do STOP.
 
+## Um estudo de LoRa: Redes de longo alcance e de baixa potência para a internet das coisas (Setembro 2016)
+
+LoRa é um sistema de telecomunicações de longo alcance e de baixa potência para a "Internet das coisas".
+A camada física usa a modulação LoRa, uma tecnologia proprietária com um protocolo MAC. LoRaWAN é um padrão aberto com a especificação disponível gratuitamente. 
+
+Este artigo fornece uma análise abrangente da modulação LoRa, incluindo a taxa de dados, formato do quadro, fator de espalhamento, sensibilidade do receptor, etc. Um banco de provas foi construído, experimentalmente para estudar o desempenho da rede, documentado neste artigo. 
+
+Os resultados mostram que a modulação LoRa, graças à modificação do espectro espalhado de chirp e alta sensibilidade do receptor, oferece boa resistência à interferência. Testes de campo mostram que a LoRa pode oferecer cobertura de rede satisfatória até 3 km em um
+área suburbana com moradias residenciais densas. O fator de espalhamento tem um impacto significativo na cobertura de rede, assim como a taxa de dados. O LoRa é, portanto, bem adequado para baixa potência, baixo débito e redes de longo alcance. Este artigo também mostrou que o LoRaWAN é um protocolo LPWAN muito semelhante ao ALOHA. Seu desempenho, portanto, se degrada rapidamente quando a carga no link aumenta.
+
 ## Avaliação dinâmica da poluição atmosférica inalada usando dados de GPS e acelerômetro - (Março 2016)
 
 A exposição à poluição do ar pode ter graves impactos na saúde, especialmente para os idosos. Para estimar a dose inalada de poluição do ar, tradicionalmente apenas a concentração de poluição do ar no local de residência é considerada, sem incorporar comportamento de viagem individual e atividade física. Isso pode levar a um viés na avaliação do impacto da saúde e nos estudos epidemiológicos, possivelmente subestimando a exposição à poluição do ar e desinformando os formuladores de políticas. 
@@ -84,9 +94,6 @@ O estudo abordou esta questão usando dados precisos de GPS e acelerômetro de 7
 
 O ciclismo está associado ao aumento das doses inaladas de NO2 em relação a outros modos. É importante para a avaliação do impacto da saúde e estudos epidemiológicos incorporar comportamentos individuais de viagem e atividade física para medir a dose inalada de poluição do ar, e isso pode ser feito com precisão usando dados de GPS e acelerômetro.
 
-## TODO: Pesquisar artigo 6 (LoRa)
-- TODO: Abstract
-- TODO: Introdução
-- TODO: Conclusão
+...
 
 Conforme os artigos apresentados, podemos verificar que até o presente momento pesquisas foram realizadas para encontrar os níveis de poluição as quais os seres humanos são expostos, levando em consideração os tipos de poluentes do ar, localização geográfica, faixa etária e atividades físicas dos indivíduos, isso foi possível através de redes sem fio, sensores ambientais, GPSs (Sistema de Posicionamento global) e acelerômetros, muitas vezes encontrados em celulares e veículos. Além disso as informações geradas, e transmitidas a longas distâncias, também auxiliaram na realização de análises, onde foi possível verificar, através de métodos de regressão linear e grafos, as possibilidades de melhoria na urbanização, qualidade do ar em determinadas regiões, planejamento de rotas em tempo real e redução de gastos com taxas extras em sistemas de compartilhamento de bicicletas.
