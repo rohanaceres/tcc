@@ -1,3 +1,4 @@
 # Sumário
 
-* [I. Introdução](chapters/chapter1-introduction.md)
+* [Descrição](README.md)
+* [Introdução](chapters/chapter1-introduction.md)
