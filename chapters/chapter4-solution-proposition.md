@@ -12,6 +12,5 @@ Esta pesquisa utilizará o método dedutivo, desenvolvendo cadeias de raciocíni
 
 ## Premissas
 
-`TODO`
-
-
+1. A pesquisa será baseada em dados obtidos no estado do Rio de Janeiro.
+2. 
