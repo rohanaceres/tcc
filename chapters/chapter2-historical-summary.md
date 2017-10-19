@@ -67,7 +67,7 @@ As tendências das utilizações de dispositivos pequenos e portáteis para moni
 
 As recentes tendências de monitoramento portátil estão fortemente relacionadas aos aplicativos e públicos associados. A pesquisa fundamental requer monitores com o melhor desempenho individual e, portanto, a tecnologia de custo mais alto, ainda que o _crowdsourcing_ permita componentes de baixo custo.
 
-## Reduções potenciais da exposição à poluição devido a separações das pistas de bicicleta de curta distância (Março 2017)
+## Reduções potenciais da exposição à poluição devido à separações das pistas de bicicleta de curta distância (Março 2017)
 
 Muitos estudos compararam a exposição dos ciclistas àqueles que utilizam outros meios de transporte e compararam as diferenças de exposição entre rotas e estradas principais. 
 
