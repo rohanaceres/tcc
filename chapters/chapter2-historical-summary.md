@@ -43,7 +43,7 @@ No Brasil, mais especificamente no Rio de Janeiro, o programa *Rio - Estado da B
 
 ## Contexto que originou o problema
 
-Em relação à poluição do ar, as pesquisas comprovaram que ciclistas são mais suscetíveis a inalar maiores doses de NO2 (dióxido de nitrogénio), mas ainda existem outros tipos de substâncias que devem ter seus impactos analisados, portanto, com o aumento dos ciclistas, mais pessoas podem ser expostas sem ter como base o risco em relação a este fato, por outra via as mesmas poderão ser os principais agentes para obtenção dos dados e mudança do quadro.
+Em relação à poluição do ar, as pesquisas comprovaram que ciclistas são mais suscetíveis a inalar maiores doses de NO2 (dióxido de nitrogênio), mas ainda existem outros tipos de substâncias que devem ter seus impactos analisados, portanto, com o aumento dos ciclistas, mais pessoas podem ser expostas sem ter como base o risco em relação a este fato, por outra via as mesmas poderão ser os principais agentes para obtenção dos dados e mudança do quadro.
 
 # Estado da arte
 
