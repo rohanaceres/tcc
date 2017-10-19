@@ -33,13 +33,13 @@ Os resultados mostraram que os aumentos variaram com o tamanho, a forma e a velo
 
 ## Uso de transporte alternativo
 
-Os transportes públicos, como trens elétricos, metrôs, VLTs (Veículo Leve sobre Trilhos) são movidos através de recursos renováveis como, no caso do Brasil, energia hidrelétrica, têm um papel importante na sustentabilidade e preservação do meio ambiente, pois diminuem a quantidade de automóveis, grandes emissores de poluentes, nas ruas ao conseguirem deslocar mais pessoas, em menor período de tempo e por longas distâncias.
+Os transportes públicos, como trens elétricos, metrôs, VLTs (Veículo Leve sobre Trilhos) são movidos através de recursos renováveis como, no caso do Brasil, energia hidrelétrica, têm um papel importante na sustentabilidade e preservação do meio ambiente, pois diminuem a quantidade de automóveis, grandes emissores de poluentes nas ruas, ao conseguirem deslocar mais pessoas em menor período de tempo e por longas distâncias.
 
-Além do trasporte público, as bicicletas têm ganhado cada vez mais força como meio de transporte alternativo. Em alguns países como Índia, Noruega, Colombia, Alemanha, Austrália, Dinamarca, França, China, Espanha e Holanda, a prática de utilização de biciletas é amplamente difundida pela população.
+Além do trasporte público, as bicicletas têm ganhado cada vez mais força como meio de transporte alternativo. Em alguns países como Índia, Noruega, Colombia, Alemanha, Austrália, Dinamarca, França, China, Espanha e Holanda, a prática da utilização das biciletas é amplamente difundida pela população.
 
 Países como Holanda, considerada capital mundial da bicicleta, e Dinamarca têm o maior investimento em infraestrutura e cultura *bike-friendly*, oferencendo aulas sobre o uso de bicicletas nas escolas primárias para ensinar às crianças como elas devem se comportar em ciclovias e no trânsito, sendo considerados também os países mais seguros para os ciclistas.
 
-No Brasil, mais especificamente no Rio de Janeiro, o programa *Rio - Estado da Bicicleta* tem como objetivo incentivar o uso da bicicleta como meio de transporte nas cidades, criado pela Secretaria de Transportes do Estado do Rio de Janeiro, que busca promover a integração desse com os outros meios de transporte, como trens, metrôs e barcas, ao também disponibilizar bicicletários nas estações; elaborar projetos e fomentar a implantação de infraestrutura cicloviária; implantar, em parceria com órgãos públicos e privados, políticas e campanhas educacionais, além de promover e apoiar eventos esportivos, culturais e institucionais.
+No Brasil, mais especificamente no Rio de Janeiro, o programa *Rio - Estado da Bicicleta* tem como objetivo incentivar o uso da bicicleta como meio de transporte nas cidades, criado pela Secretaria de Transportes do Estado do Rio de Janeiro, que busca promover a integração desse com os outros meios de transporte, como trens, metrôs e barcas, ao também disponibilizar bicicletários nas estações; elaborar projetos e fomentar a implantação de infraestrutura cicloviária; implantar, em parceria com órgãos públicos e privados, políticas e campanhas educacionais; além de promover e apoiar eventos esportivos, culturais e institucionais.
 
 ## Contexto que originou o problema
 
