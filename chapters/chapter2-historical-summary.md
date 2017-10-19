@@ -13,7 +13,7 @@ Os modelos de aditivos generalizados na regressão de Poisson foram utilizados p
 
 Essas cidades receberam quase 43 milhões de pessoas e os níveis de poluição estavam acima das diretrizes da OMS. Para PM10, o aumento percentual do risco de morte, devido as doenças respiratórias, em lactentes em um modelo de efeito fixo foi de 0,47%. Para as mortes respiratórias em crianças de 1 à 5 anos, o aumento de risco foi de 0,58%, observando-se maior efeito nas infecções respiratórias inferiores (LRI) em crianças de 1 à 14 anos, sendo de 1,38%. Para O3, a única estimativa resumida estatisticamente significante foi para LRI em lactentes. A análise por temporada mostrou efeitos de O3 no verão para doenças respiratórias em lactentes, enquanto os efeitos negativos foram observados para as mortes respiratórias e LRI em crianças.
 
-Foram demonstradas estimativas, de mortalidade, em relação ao impacto dos poluentes atmosféricos em todas essas cidades e grupos etários. Esta informação é importante, pois muitas políticas públicas destinadas a prevenir os efeitos adversos da poluição na saúde consideram as crianças como o grupo populacional que merece a maior proteção.
+Foram demonstradas estimativas de mortalidade, em relação ao impacto dos poluentes atmosféricos em todas essas cidades e grupos etários. Esta informação é importante, pois muitas políticas públicas destinadas a prevenir os efeitos adversos da poluição na saúde consideram as crianças como o grupo populacional que merece a maior proteção.
 
 ### Hotspots de carbono preto e PM2.5 em uma área urbana relacionados com as características do tráfego - (Novembro 2016)
 
