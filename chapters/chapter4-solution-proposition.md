@@ -1,3 +1,5 @@
 # Solução proposta
 
-`// TODO`
+Com o objetivo de mitigar o problema proposto anteriormente, este trabalho se propõe a desenvolver um dispositivo embarcado com a capacidade de ler as taxas de poluentes no ar das regiões onde os ciclistas trafegam. Esses dados serão coletados pelo servidor e transformados em informação, tornando possível a visualização de todos os dados coletados pelos sensores, bem como localizar _hotspots_ de má qualidade do ar. O  sistema também será capaz de indicar se o ciclista está inalando mais ar poluído do que um usuário de transportes públicos ou privados, e sugerir rotas que desviem das regiões de picos de poluição.
+
+O dispositivo embarcado na bicicleta visa ser portátil, de baixo consumo de energia, alta disponibilidade e persistir os dados no servidor. Para isso, ele se comunicará com a internet através do LoRaWAN (_Low Power Wide Area Network_), que consiste, como exposto nos capítulos anteriores, em uma rede de grande alcance e baixo consumo de energia.
