@@ -12,13 +12,11 @@ Quando gases ou partículas emitidos pela ação humana atingem concentraço
 
 O projeto estadual MonitorAR Rio coleta dados de emissão de gases poluentes desde 2010, nas regiões Centro, Copacabana, São Cristóvão, Tijuca, Irajá, Bangu, Campo Grande, Pedra de Guaratiba e Recreio. Em 2011 e 2012, os seguintes dados referentes a taxa de gases poluentes coletados foram:
 
-![](../img/chapter1-img1.png)
+<img src="../img/chapter1-img1.png" width="350" />
+<img src="../img/chapter1-img2.png" width="350" />
 
-![](../img/chapter1-img2.png)
-
-![](../img/chapter1-img3.png)
-
-![](../img/chapter1-img4.png)
+<img src="../img/chapter1-img3.png" width="350" />
+<img src="../img/chapter1-img4.png" width="350" />
 
 Dentro dessa perspectiva, voltados para a questão da qualidade do ar e do impacto gerado pelo trânsito, urbanistas de todo o mundo se reuniram para discutir e desenvolver programas urbanísticos de baixo nível de agressão ambiental, bem como buscar definir um desenvolvimento socioeconômico que melhore e não destrua o meio ambiente natural e construído.
 
