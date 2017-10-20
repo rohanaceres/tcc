@@ -4,3 +4,4 @@
 * [Introdução](chapters/chapter1-introduction.md)
 * [Breve resumo histórico e estado da arte](chapters/chapter2-historical-summary.md)
 * [Proposição do problema](chapters/chapter3-problem-proposition.md)
+* [Solução proposta](chapters/chapter4-solution-proposition.md)
