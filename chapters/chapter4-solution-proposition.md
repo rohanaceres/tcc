@@ -13,4 +13,9 @@ Esta pesquisa utilizará o método dedutivo, desenvolvendo cadeias de raciocíni
 ## Premissas
 
 1. A pesquisa será baseada em dados obtidos no estado do Rio de Janeiro.
-2. 
+2. Será usada a rede LoRa.
+3. Um protótipo será feito utilizando microcontroladores e sensores de baixo consumo de energia.
+4. O grupo que será estudado na pesquisa será formado por ciclistas.
+5. O dispositivo embarcado desenvolvido precisa ser portátil para acoplar na bicicleta.
+6. Deverá ser desenvolvido uma ferramenta de visualização das informações.
+7. O projeto deverá considerar a localização do usuário.
