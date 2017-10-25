@@ -6,10 +6,6 @@ Com o objetivo de mitigar o problema proposto anteriormente, este trabalho se pr
 
 O dispositivo embarcado na bicicleta visa ser portátil, de baixo consumo de energia, alta disponibilidade e persistir os dados no servidor. Para isso, ele se comunicará com a internet através do LoRaWAN (_Low Power Wide Area Network_), que consiste, como exposto nos capítulos anteriores, em uma rede de grande alcance e baixo consumo de energia.
 
-## Metodologia
-
-Esta pesquisa utilizará o método dedutivo, desenvolvendo cadeias de raciocínio com premissas bem definidas para chegar a uma conclusão clara e objetiva. Além disso, este trabalho consiste em uma pesquisa quantitativa descritiva, ou seja, visa resolver um problema prático específico; analisar os dados, suas relações e impactos de forma concisa; e envolver estratégias de coleta de dados, neste caso, através de sensores, por amostragem não probabilística intencional, onde o grupo estudado será formado por ciclistas.
-
 ## Premissas
 
 1. A pesquisa será baseada em dados obtidos no estado do Rio de Janeiro.
