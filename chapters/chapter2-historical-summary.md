@@ -1,11 +1,11 @@
-# Breve resumo histórico
+# 2 Breve resumo histórico
 
 > “Aqueles que não podem lembrar o passado estão condenados a repeti-lo”
 > -- George Santayana
 
-## Pesquisas de medição da poluição
+## 2.1 Pesquisas de medição da poluição
 
-### Efeitos da poluição do ar na mortalidade respiratória infantil em quatro grandes cidades latino-americanas (Setembro 2017)
+### 2.1.1 Efeitos da poluição do ar na mortalidade respiratória infantil em quatro grandes cidades latino-americanas (Setembro 2017)
 
 A poluição do ar é uma importante preocupação de saúde pública, especialmente para crianças particularmente suscetíveis. A América Latina tem uma grande população infantil, é altamente urbanizada e os níveis de poluição são substancialmente altos, o que dificulta o impacto potencial da poluição atmosférica na saúde. Portanto, foi analisado o efeito da poluição do ar sobre a mortalidade respiratória infantil em quatro grandes centros urbanos: Cidade do México, Santiago no Chile, São Paulo e Rio de Janeiro no Brasil.
 
@@ -15,7 +15,7 @@ Essas cidades receberam quase 43 milhões de pessoas e os níveis de poluição 
 
 Foram demonstradas estimativas de mortalidade, em relação ao impacto dos poluentes atmosféricos em todas essas cidades e grupos etários. Esta informação é importante, pois muitas políticas públicas destinadas a prevenir os efeitos adversos da poluição na saúde consideram as crianças como o grupo populacional que merece a maior proteção.
 
-### _Hotspots_ de carbono preto e PM2.5 em uma área urbana relacionados com as características do tráfego (Novembro 2016)
+### 2.1.2 _Hotspots_ de carbono preto e PM2.5 em uma área urbana relacionados com as características do tráfego (Novembro 2016)
 
 Três bicicletas instrumentadas foram usadas para medir as concentrações de carbono preto (BC) e PM2.5 em uma cidade de médio porte no sul do Brasil. O objetivo deste estudo foi mapear a distribuição espacial de BC e PM2.5, identificar _hotspots_ de poluição do ar e avaliar fatores que possam afetar as concentrações desses poluentes, por exemplo, volume de tráfego, número de veículos diesel pesados (HDDV), posição dos sinais de trânsito e inclinação da rua. 
 
@@ -23,7 +23,7 @@ Os ciclistas coletaram dados no centro da cidade ao longo de ruas de diferentes 
 
 Esses resultados implicam que ônibus antigos e caminhões diesel podem ser os principais agentes dos altos níveis de poluição no núcleo interno da cidade. Portando, foi observada uma forte relação entre as concentrações de carbono preto nas junções geridas pelos sinais de trânsito e a quantidade de HDDV. A concentração média de carbono preto foi de 8,10 miligranas perto de sinais de trânsito localizados em uma rua inclinada (com mais de 100 veículos movidos a diesel) em comparação com sinais de trânsito em terreno plano, que foi de 6,0 miligramas, o que pode ser atribuído a maior aceleração necessária no início do movimento. Esse padrão foi menos evidente para as concentrações de PM2.5.
 
-### Efeitos do veículo em movimento aumenta a dispersão de poluentes dentro de um túnel rodoviário (Novembro 2016)
+### 2.1.3 Efeitos do veículo em movimento aumenta a dispersão de poluentes dentro de um túnel rodoviário (Novembro 2016)
 
 Este estudo investiga a dispersão de poluentes em um túnel rodoviário na presença de veículo em movimento, por uma abordagem de velocidade relativa usando CFD 3-D (Dinâmica de fluido computacional de 3 dimensões). 
 
@@ -31,7 +31,7 @@ O comportamento turbulento do fluxo de ar em torno de veículos de diferentes fo
 
 Os resultados mostraram que os aumentos variaram com o tamanho, a forma e a velocidade dos veículos. O fluxo de tráfego produziu uma dispersão mais alta de poluentes e acelerou o efeito do pistão, empurrando poluentes para o túnel e fora do portal de saída em curto prazo. As descobertas têm um significado particular nos estudos relacionados à dispersão dentro dos túneis com um tráfego misto de diferentes dimensões e formas.
 
-## Uso de transporte alternativo
+## 2.2 Uso de transporte alternativo
 
 Os transportes públicos, como trens elétricos, metrôs, VLTs (Veículo Leve sobre Trilhos) são movidos através de recursos renováveis como, no caso do Brasil, energia hidrelétrica, têm um papel importante na sustentabilidade e preservação do meio ambiente, pois diminuem a quantidade de automóveis, grandes emissores de poluentes nas ruas, ao conseguirem deslocar mais pessoas em menor período de tempo e por longas distâncias.
 
@@ -41,15 +41,15 @@ Países como Holanda, considerada capital mundial da bicicleta, e Dinamarca têm
 
 No Brasil, mais especificamente no Rio de Janeiro, o programa *Rio - Estado da Bicicleta* tem como objetivo incentivar o uso da bicicleta como meio de transporte nas cidades, criado pela Secretaria de Transportes do Estado do Rio de Janeiro, que busca promover a integração desse com os outros meios de transporte, como trens, metrôs e barcas, ao também disponibilizar bicicletários nas estações; elaborar projetos e fomentar a implantação de infraestrutura cicloviária; implantar, em parceria com órgãos públicos e privados, políticas e campanhas educacionais; além de promover e apoiar eventos esportivos, culturais e institucionais.
 
-## Contexto que originou o problema
+## 2.3 Contexto que originou o problema
 
 Em relação à poluição do ar, as pesquisas comprovaram que ciclistas são mais suscetíveis a inalar maiores doses de NO<sub>2</sub> (dióxido de nitrogênio), mas ainda existem outros tipos de substâncias que devem ter seus impactos analisados, portanto, com o aumento dos ciclistas, mais pessoas podem ser expostas sem ter como base o risco em relação a este fato, por outra via as mesmas poderão ser os principais agentes para obtenção dos dados e mudança do quadro.
 
-# Estado da arte
+## 2.4 Estado da arte
 
 O estado da arte é um momento importante do documento, pois mostra as pesquisas mais recentes e relevantes que foram desenvolvidas, no qual é apresentado um ponto de partida para o projeto. Logo, iremos apresentar o contexto, através de artigos e pesquisas relacionados ao tema proposto e as tecnologias utilizadas atualmente:
 
-## _Hotspots_ de emissões urbanas: quantificando o congestionamento do veículo e a poluição do ar usando dados de GPS do telefone celular (Outubro 2017)
+### 2.4.1 _Hotspots_ de emissões urbanas: quantificando o congestionamento do veículo e a poluição do ar usando dados de GPS do telefone celular (Outubro 2017)
 
 As emissões na estrada variam amplamente em escalas de tempo tão baixas como minutos e escalas de comprimento tão baixas quanto dezenas de metros. Os dados detalhados sobre as emissões a essas escalas são um pré-requisito para quantificar com precisão as concentrações de poluição ambiental e identificar _hotspots_ de exposição humana em áreas urbanas.
 
@@ -57,7 +57,7 @@ Para isso, foi construído um inventário altamente resolvido de fluxos crescent
 
 O Inventário Nacional de Emissões (NEI) da EPA de 2011 entende as emissões agregadas de óxidos de nitrogênio, PM2.5 e CO<sub>2</sub> em 46%, 38% e 18%, respectivamente. No entanto, as emissões de CO permanecem em 5% para os dois inventários, sugerindo que os grandes preconceitos nas emissões de óxidos de nitrogênio e PM2.5 resultam de diferenças nas estimativas da atividade do veículo a diesel. Ao fornecer informações detalhadas sobre _hotspots_ de emissão locais e padrões de emissões regionais, a estrutura do inventário é compatível com intervenções de tráfego direcionadas, _benchmarking_ transparente e melhorias na qualidade global do ar urbano.
 
-## Características e aplicações de monitores pequenos e portáteis de poluição do ar (Abril 2017)
+### 2.4.2 Características e aplicações de monitores pequenos e portáteis de poluição do ar (Abril 2017)
 
 As abordagens tradicionais para medir a qualidade do ar com base em medidas fixas são inadequadas para o monitoramento da exposição pessoal. Para combater esta questão, o uso de tecnologias pequenas e portáteis de monitoramento da poluição atmosférica está aumentando, com pesquisadores e indivíduos que utilizam métodos móveis e portáteis para obter dados de poluição atmosférica mais espaciais e temporariamente representativos. No entanto, muitas opções comercialmente disponíveis são criadas para várias aplicações e baseadas em diferentes tecnologias, pressupostos e limitações. Não existe uma revisão das características de monitoramento de gases na literatura científica atual.
 
@@ -67,7 +67,7 @@ As tendências das utilizações de dispositivos pequenos e portáteis para moni
 
 As recentes tendências de monitoramento portátil estão fortemente relacionadas aos aplicativos e públicos associados. A pesquisa fundamental requer monitores com o melhor desempenho individual e, portanto, a tecnologia de custo mais alto, ainda que o _crowdsourcing_ permita componentes de baixo custo.
 
-## Reduções potenciais da exposição à poluição devido à separações das pistas de bicicleta de curta distância (Março 2017)
+### 2.4.3 Reduções potenciais da exposição à poluição devido à separações das pistas de bicicleta de curta distância (Março 2017)
 
 Muitos estudos compararam a exposição dos ciclistas àqueles que utilizam outros meios de transporte e compararam as diferenças de exposição entre rotas e estradas principais. 
 
@@ -75,7 +75,7 @@ Neste estudo, foi empregado o uso de três bicicletas que viajam em uníssono pa
 
 Os dados foram analisados sob a forma de modelos lineares mistos, com a posição do ciclista (distância da borda da faixa de tráfego mais próxima), velocidade do vento e temperatura, tendo efeitos estatisticamente significativos nas exposições médias (p < 0,05). A exposição média às UFPs e ao CO foi aproximadamente 20 à 30% (p < 0,01) mais baixa na calçada e 40 à 50% menor no caminho, do que na estrada (p < 0,01). Esses resultados destacam os benefícios da segragação de rua e ciclovia, já que poderia ajudar a reduzir a inalação de poluentes pelos ciclistas, especialmente em estradas com grande tráfego.
 
-## Planejamento de rota de viagem para sistemas de compartilhamento de bicicletas (Novembro 2016) 
+### 2.4.4 Planejamento de rota de viagem para sistemas de compartilhamento de bicicletas (Novembro 2016) 
 
 Os sistemas de compartilhamento de bicicletas (BSSs) que oferecem usos de bicicletas compartilhadas ao público estão se tornando cada vez mais populares hoje em dia. Nos sistemas de compartilhamento de bicicletas, as pessoas podem emprestar e devolver bicicletas em qualquer estação de bicicleta na região do serviço, mas o tempo de viagem livre geralmente é limitado. Portanto, para viagens de bicicleta de longa distância, os indivíduos precisam pré-agendar a rota de viagem de bicicleta com antecedência e mudar a bicicleta dentro do tempo de viagem livre, de modo que não sejam cobradas taxas de horas extras. 
 
@@ -83,7 +83,7 @@ Neste artigo, foi estudado o problema do planejamento da rota de viagem para os 
 
 Com base nos resultados da análise, uma nova estrutura de planejamento de rotas de bicicleta "_BSSs Based Trip Route Planning_" (STOP) foi proposta para identificar a rota de viagem ideal, mapeando o problema em um problema de fluxo de rede de custo mínimo. Experimentos extensivos realizados em conjuntos de dados do sistema de compartilhamento de bicicleta do mundo real demonstram a eficácia do STOP.
 
-## Um estudo de LoRa: Redes de longo alcance e de baixa potência para a internet das coisas (Setembro 2016)
+### 2.4.5 Um estudo de LoRa: Redes de longo alcance e de baixa potência para a internet das coisas (Setembro 2016)
 
 LoRa é um sistema de telecomunicações de longo alcance e de baixa potência para a "Internet das coisas". A camada física usa a modulação LoRa, uma tecnologia proprietária com um protocolo MAC. LoRaWAN é um padrão aberto com a especificação disponível gratuitamente.
 
@@ -91,7 +91,7 @@ Este artigo fornece uma análise abrangente da modulação LoRa, incluindo a tax
 
 Os resultados mostraram que a modulação LoRa, graças à modificação do espectro espalhado de chirp e alta sensibilidade do receptor, oferece boa resistência à interferência. Testes de campo mostraram que a LoRa pode oferecer cobertura de rede satisfatória de até 3 km em uma área suburbana com moradias residenciais densas. O fator de espalhamento tem um impacto significativo na cobertura de rede, assim como a taxa de dados. A LoRa é, portanto, bem adequada para baixa potência, sistemas não críticos e redes de longo alcance. Este artigo também mostrou que a LoRaWAN tem um protocolo LPWAN muito semelhante ao ALOHA. Seu desempenho, portanto, se degrada rapidamente quando a carga no link aumenta.
 
-## Avaliação dinâmica da poluição atmosférica inalada usando dados de GPS e acelerômetro (Março 2016)
+### 2.4.6 Avaliação dinâmica da poluição atmosférica inalada usando dados de GPS e acelerômetro (Março 2016)
 
 A exposição à poluição do ar pode ter graves impactos na saúde, especialmente para os idosos. Para estimar a dose inalada de poluição do ar, tradicionalmente apenas a concentração de poluição do ar no local de residência é considerada, sem incorporar comportamento de viagem individual e atividade física. Isso pode levar a um viés na avaliação do impacto da saúde e nos estudos epidemiológicos, possivelmente subestimando a exposição à poluição do ar e desinformando os formuladores de opiniões. 
 
