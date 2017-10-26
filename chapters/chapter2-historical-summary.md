@@ -5,9 +5,7 @@
 
 ## Pesquisas de medição da poluição
 
-### Efeitos da poluição do ar na mortalidade respiratória infantil em quatro grandes cidades latino-americanas (Setembro 2017)
-
-A poluição do ar é uma importante preocupação de saúde pública, especialmente para crianças particularmente suscetíveis. A América Latina tem uma grande população infantil, é altamente urbanizada e os níveis de poluição são substancialmente altos, o que dificulta o impacto potencial da poluição atmosférica na saúde. Portanto, foi analisado o efeito da poluição do ar sobre a mortalidade respiratória infantil em quatro grandes centros urbanos: Cidade do México, Santiago no Chile, São Paulo e Rio de Janeiro no Brasil.
+Segundo o estudo (NELSON, 2017), a poluição do ar é uma importante preocupação de saúde pública, especialmente para crianças particularmente suscetíveis. A América Latina tem uma grande população infantil, é altamente urbanizada e os níveis de poluição são substancialmente altos, o que dificulta o impacto potencial da poluição atmosférica na saúde. Portanto, foi analisado o efeito da poluição do ar sobre a mortalidade respiratória infantil em quatro grandes centros urbanos: Cidade do México, Santiago no Chile, São Paulo e Rio de Janeiro no Brasil.
 
 Os modelos de aditivos generalizados na regressão de Poisson foram utilizados para ajustar as séries temporais diárias de mortalidade por doenças respiratórias em lactentes e crianças, em relação aos níveis de PM10 e O<sub>3</sub>. Foram explorados modelos de atraso de desaceleração de polinômios limitados únicos e desfasados. As análises foram realizadas para cada faixa etária e cada cidade. A meta-análise de efeitos fixos e aleatórios foi realizada de modo a combinar os resultados específicos da cidade em uma única estimativa.
 
@@ -15,17 +13,13 @@ Essas cidades receberam quase 43 milhões de pessoas e os níveis de poluição 
 
 Foram demonstradas estimativas de mortalidade, em relação ao impacto dos poluentes atmosféricos em todas essas cidades e grupos etários. Esta informação é importante, pois muitas políticas públicas destinadas a prevenir os efeitos adversos da poluição na saúde consideram as crianças como o grupo populacional que merece a maior proteção.
 
-### _Hotspots_ de carbono preto e PM2.5 em uma área urbana relacionados com as características do tráfego (Novembro 2016)
-
-Três bicicletas instrumentadas foram usadas para medir as concentrações de carbono preto (BC) e PM2.5 em uma cidade de médio porte no sul do Brasil. O objetivo deste estudo foi mapear a distribuição espacial de BC e PM2.5, identificar _hotspots_ de poluição do ar e avaliar fatores que possam afetar as concentrações desses poluentes, por exemplo, volume de tráfego, número de veículos diesel pesados (HDDV), posição dos sinais de trânsito e inclinação da rua. 
+De acordo com o estudo realizado para localizar pontos de concentração de carbono preto e PM2.5 em áreas urbanas (ADMIR, 2016), foram utilizadas três bicicletas instrumentadas em uma cidade de médio porte no sul do Brasil. O objetivo deste estudo foi mapear a distribuição espacial de BC e PM2.5, identificar _hotspots_ de poluição do ar e avaliar fatores que possam afetar as concentrações desses poluentes, por exemplo, volume de tráfego, número de veículos diesel pesados (HDDV), posição dos sinais de trânsito e inclinação da rua. 
 
 Os ciclistas coletaram dados no centro da cidade ao longo de ruas de diferentes densidades de tráfego durante nove sessões de amostragem nos períodos da manhã e da tarde, entre 13 de março e 28 de abril de 2015. A amostragem em bicicleta abrangeu uma área de 2,70 km<sup>2</sup>, sobre elevação variável, e percorreu uma distância total de 215 km. O carbono preto e o PM2.5 exibiram uma grande variabilidade espacial em uma escala de dezenas de metros, e as concentrações foram positivamente correlacionadas com as contagens de tráfego, mas apresentaram uma relação mais forte com o número de veículos diesel pesados. 
 
 Esses resultados implicam que ônibus antigos e caminhões diesel podem ser os principais agentes dos altos níveis de poluição no núcleo interno da cidade. Portando, foi observada uma forte relação entre as concentrações de carbono preto nas junções geridas pelos sinais de trânsito e a quantidade de HDDV. A concentração média de carbono preto foi de 8,10 miligranas perto de sinais de trânsito localizados em uma rua inclinada (com mais de 100 veículos movidos a diesel) em comparação com sinais de trânsito em terreno plano, que foi de 6,0 miligramas, o que pode ser atribuído a maior aceleração necessária no início do movimento. Esse padrão foi menos evidente para as concentrações de PM2.5.
 
-### Efeitos do veículo em movimento aumenta a dispersão de poluentes dentro de um túnel rodoviário (Novembro 2016)
-
-Este estudo investiga a dispersão de poluentes em um túnel rodoviário na presença de veículo em movimento, por uma abordagem de velocidade relativa usando CFD 3-D (Dinâmica de fluido computacional de 3 dimensões). 
+Em 2016, um estudo foi feito para investigar a dispersão de poluentes em um túnel rodoviário na presença de veículo em movimento(UTKARSH, 2016), por uma abordagem de velocidade relativa usando CFD 3-D (Dinâmica de fluido computacional de 3 dimensões). 
 
 O comportamento turbulento do fluxo de ar em torno de veículos de diferentes formas e seu impacto na dispersão de poluentes foram estudados. As geometrias do veículo de diferentes formas foram extraídas e simplificadas e dimensionadas com base nos veículos típicos nas estradas indianas. O modelo foi verificado com os dados da leitura de pressão estática em torno de um corpo de veículo em movimento antes de se aplicar para simular concentrações, e validado com dados no local.
 
