@@ -1,4 +1,4 @@
-# Introdução
+# 1 Introdução
 
 Em 2015, na sede da ONU de Nova Iorque, aconteceu um encontro entre todos os países das Nações Unidas, com o objetivo de traçar metas visando o desenvolvimento sustentável. Com isso, uma agenda foi desenvolvida e nomeada de Objetivos de Desenvolvimento Sustentável. 
 
@@ -13,10 +13,36 @@ Quando gases ou partículas emitidos pela ação humana atingem concentraço
 O projeto estadual MonitorAR Rio coleta dados de emissão de gases poluentes desde 2010, nas regiões Centro, Copacabana, São Cristóvão, Tijuca, Irajá, Bangu, Campo Grande, Pedra de Guaratiba e Recreio. Em 2011 e 2012, os seguintes dados referentes a taxa de gases poluentes coletados foram:
 
 <img src="../img/chapter1-img1.png" width="350" />
+
+Gráfico com a variação do IQA 2011:
+
+Bom 55% | Regular 42% | Inadequado 2% | Ruim 0% | Não disponível 1%
+
+Fonte: Relatório da Rede MonitorAr-Rio, 2011-2012
+
 <img src="../img/chapter1-img2.png" width="350" />
 
+Gráfico com a variação do IQA 2012:
+
+Bom 45% | Regular 47% | Inadequado 4% | Ruim 3% | Não disponível 1%
+
+Fonte: Relatório da Rede MonitorAr-Rio, 2011-2012
+
 <img src="../img/chapter1-img3.png" width="350" />
+
+Gráfico com principais poluentes de 2011:
+
+PM10 59%  | Ozônio 41% | Dióxido de nitrogênio 0%
+
+Fonte: Relatório da Rede MonitorAr-Rio, 2011-2012
+
 <img src="../img/chapter1-img4.png" width="350" />
+
+Gráfico com principais poluentes de 2012:
+
+PM10 33%  | Ozônio 64% | Dióxido de nitrogênio 3%
+
+Fonte: Relatório da Rede MonitorAr-Rio, 2011-2012
 
 Dentro dessa perspectiva, voltados para a questão da qualidade do ar e do impacto gerado pelo trânsito, urbanistas de todo o mundo se reuniram para discutir e desenvolver programas urbanísticos de baixo nível de agressão ambiental, bem como buscar definir um desenvolvimento socioeconômico que melhore e não destrua o meio ambiente natural e construído.
 
@@ -30,12 +56,6 @@ Para alcançar este propósito, será criado um protótipo com o Arduino Trinket
 
 Esta pesquisa utilizará o método dedutivo, desenvolvendo cadeias de raciocínio com premissas bem definidas para chegar a uma conclusão clara e objetiva. Além disso, este trabalho consiste em uma pesquisa quantitativa descritiva, ou seja, visa resolver um problema prático específico; analisar os dados, suas relações e impactos de forma concisa; e envolver estratégias de coleta de dados, neste caso, através de sensores, por amostragem não probabilística intencional, onde o grupo estudado será formado por ciclistas.
 
-Os capítulos deste trabalho se disporão na seguinte ordem:
+No capítulo 2, "Resumo histórico e estado da arte", serão apresentadas diversas pesquisas referentes ao tema do trabalho, evidenciando as tecnologias e soluções encontradas até o presente momento, para mitigar os problemas relacionados; no capítulo 3 - "Proposição do problema" - o problema, encontrado através das pesquisas, será brevemente descrito; e no capítulo 4 - "Solução proposta" - a solução proposta será apresentada, abordando os aspectos tecnológicos e suas premissas, contendo uma visão geral do sistema a ser desenvolvido.
 
-Capítulo | Descrição
---- | ---
-1 | `// TODO`
-2 | `// TODO`
-3 | `// TODO`
-4 | `// TODO`
-5 | `// TODO`
+`// TODO: Quando um novo capítulo for adicionado, adicionar a descrição aqui.`
