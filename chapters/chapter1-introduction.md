@@ -54,12 +54,6 @@ Este trabalho tem como objetivo mensurar a quantidade de ar poluído inalado, em
 
 Para alcançar este propósito, será criado um protótipo com o Arduino Trinket, principalmente por ser uma placa pequena, de fácil implementação e com diversas portas I/O, flexibilizando a inclusão dos sensores. O protótipo será planejado baseado em redes LoRa. Estas são redes sem fio de alto alcance e baixo consumo de energia, criadas especificamente para promover a comunicação entre dispositivos embarcados (IoT). Com isso, é possível acessar os dados captados por cada usuário em tempo real.
 
-Os capítulos deste trabalho se disporão na seguinte ordem:
+No capítulo 2, "Resumo histórico e estado da arte", serão apresentadas diversas pesquisas referentes ao tema do trabalho, evidenciando as tecnologias e soluções encontradas até o presente momento, para mitigar os problemas relacionados; no capítulo 3 - "Proposição do problema" - o problema, encontrado através das pesquisas, será brevemente descrito; e no capítulo 4 - "Solução proposta" - a solução proposta será apresentada, abordando os aspectos tecnológicos e suas premissas, contendo uma visão geral do sistema a ser desenvolvido.
 
-Capítulo | Descrição
---- | ---
-1 | `// TODO`
-2 | `// TODO`
-3 | `// TODO`
-4 | `// TODO`
-5 | `// TODO`
+`// TODO: Quando um novo capítulo for adicionado, adicionar a descrição aqui.`
