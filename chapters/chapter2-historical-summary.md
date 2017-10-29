@@ -1,8 +1,5 @@
 # 2 Breve resumo histórico
 
-> “Aqueles que não podem lembrar o passado estão condenados a repeti-lo”
-> -- George Santayana
-
 ## 2.1 Pesquisas de medição da poluição
 
 ### 2.1.1 Efeitos da poluição do ar na mortalidade respiratória infantil em quatro grandes cidades latino-americanas (Setembro 2017)
