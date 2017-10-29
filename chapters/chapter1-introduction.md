@@ -12,7 +12,7 @@ Quando gases ou partículas emitidos pela ação humana atingem concentraço
 
 O projeto estadual MonitorAR Rio coleta dados de emissão de gases poluentes desde 2010, nas regiões Centro, Copacabana, São Cristóvão, Tijuca, Irajá, Bangu, Campo Grande, Pedra de Guaratiba e Recreio. Em 2011 e 2012, os seguintes dados referentes a taxa de gases poluentes coletados foram:
 
-<img src="../img/chapter1-img1.png" width="350" />
+<img src="../img/chapter1-img1.png" width="350" alt="Gráfico com a variação do IQA 2011" title="Gráfico com a variação do IQA 2011" />
 
 (Gráfico com a variação do IQA 2011:
 
@@ -20,7 +20,7 @@ Bom 55% | Regular 42% | Inadequado 2% | Ruim 0% | Não disponível 1%
 
 Fonte: Relatório da Rede MonitorAr-Rio, 2011-2012)
 
-<img src="../img/chapter1-img2.png" width="350" />
+<img src="../img/chapter1-img2.png" width="350" alt="Gráfico com a variação do IQA 2012" title="Gráfico com a variação do IQA 2012" />
 
 (Gráfico com a variação do IQA 2012:
 
@@ -28,7 +28,7 @@ Bom 45% | Regular 47% | Inadequado 4% | Ruim 3% | Não disponível 1%
 
 Fonte: Relatório da Rede MonitorAr-Rio, 2011-2012)
 
-<img src="../img/chapter1-img3.png" width="350" />
+<img src="../img/chapter1-img3.png" width="350" alt="Gráfico com principais poluentes de 2011" title="Gráfico com principais poluentes de 2011" />
 
 (Gráfico com principais poluentes de 2011:
 
@@ -36,7 +36,7 @@ PM10 59%  | Ozônio 41% | Dióxido de nitrogênio 0%
 
 Fonte: Relatório da Rede MonitorAr-Rio, 2011-2012)
 
-<img src="../img/chapter1-img4.png" width="350" />
+<img src="../img/chapter1-img4.png" width="350" alt="Gráfico com principais poluentes de 2012" title="GGráfico com principais poluentes de 2012" />
 
 (Gráfico com principais poluentes de 2012:
 
