@@ -80,7 +80,7 @@ Com base nos resultados da análise, uma nova estrutura de planejamento de rotas
 
 ### 2.4.5 Um estudo de LoRa: Redes de longo alcance e de baixa potência para a internet das coisas (Setembro 2016)
 
-LoRa é um sistema de telecomunicações de longo alcance e de baixa potência para a "Internet das coisas". A camada física usa a modulação LoRa, uma tecnologia proprietária com um protocolo MAC. LoRaWAN é um padrão aberto com a especificação disponível gratuitamente.
+LoRa é um sistema de telecomunicações de longo alcance e de baixa potência para a "Internet das coisas". A camada física usa a modulação LoRa, uma tecnologia proprietária com um protocolo de controle de acesso ao meio (do termo em inglês: "Media Access Control" - MAC). LoRaWAN é um padrão aberto com a especificação disponível gratuitamente.
 
 Este artigo fornece uma análise abrangente da modulação LoRa, incluindo a taxa de dados, formato do quadro, fator de espalhamento, sensibilidade do receptor, etc. Um banco de provas foi construído, experimentalmente para estudar o desempenho da rede, documentado neste artigo. 
 
