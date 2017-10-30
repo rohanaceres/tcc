@@ -24,9 +24,9 @@ Esses resultados implicam que ônibus antigos e caminhões diesel podem ser os p
 
 Este estudo investiga a dispersão de poluentes em um túnel rodoviário na presença de veículo em movimento, por uma abordagem de velocidade relativa usando CFD 3-D (Dinâmica de fluido computacional de 3 dimensões). 
 
-O comportamento turbulento do fluxo de ar em torno de veículos de diferentes formas e seu impacto na dispersão de poluentes foram estudados. As geometrias do veículo de diferentes formas foram extraídas e simplificadas e dimensionadas com base nos veículos típicos nas estradas indianas. O modelo foi verificado com os dados da leitura de pressão estática em torno de um corpo de veículo em movimento antes de se aplicar para simular concentrações, e validado com dados no local.
+O comportamento turbulento do fluxo de ar em torno de veículos de diferentes formas e seu impacto na dispersão de poluentes foram estudados. As geometrias do veículo de diferentes formas foram extraídas e simplificadas e dimensionadas com base nos veículos típicos nas estradas indianas. O modelo foi verificado com os dados da leitura de pressão estática em torno de um corpo de veículo em movimento antes de se aplicar para simular concentrações, e ser validado com dados no local.
 
-Os resultados mostraram que os aumentos variaram com o tamanho, a forma e a velocidade dos veículos. O fluxo de tráfego produziu uma dispersão mais alta de poluentes e acelerou o efeito do pistão, empurrando poluentes para o túnel e fora do portal de saída em curto prazo. As descobertas têm um significado particular nos estudos relacionados à dispersão dentro dos túneis com um tráfego misto de diferentes dimensões e formas.
+Os resultados mostraram que as variações na dispersão dos poluentes eram proporcionais ao tamanho, à forma e à velocidade dos veículos. O fluxo de tráfego produziu uma dispersão mais alta de poluentes e acelerou o efeito do pistão, empurrando poluentes para o túnel e fora do portal de saída em curto prazo. As descobertas têm um significado particular nos estudos relacionados à dispersão dentro dos túneis com um tráfego misto de diferentes dimensões e formas.
 
 ## 2.2 Uso de transporte alternativo
 
