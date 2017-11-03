@@ -187,12 +187,6 @@
 % ---
 
 % ---
-% NOTA DA ABNT NBR 15287:2011, p. 4:
-%  ``Se exigido pela entidade, apresentar os dados curriculares do autor em
-%     folha ou página distinta após a folha de rosto.''
-% ---
-
-% ---
 % Inserir lista de ilustrações
 % ---
 % \pdfbookmark[0]{\listfigurename}{lof}
@@ -238,7 +232,6 @@
 \cleardoublepage
 % ---
 
-
 % ----------------------------------------------------------
 % ELEMENTOS TEXTUAIS
 % ----------------------------------------------------------
@@ -250,7 +243,14 @@
 \chapter*[Introdução]{Introdução}
 \addcontentsline{toc}{chapter}{Introdução}
 
-\input{chapters/chapter1-introduction}
+\input{chapters/introduction}
+
+% ----------------------------------------------------------
+% Capítulo 1: Breve resumo histórico
+% ----------------------------------------------------------
+\chapter{Breve resumo histórico}
+
+\input{chapters/chapter1-historical-summary}
 
 % ----------------------------------------------------------
 % Capitulo de textual  
