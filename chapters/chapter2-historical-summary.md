@@ -8,7 +8,12 @@ A poluição do ar é uma importante preocupação de saúde pública, especialm
 
 Os modelos de aditivos generalizados na regressão de Poisson foram utilizados para ajustar as séries temporais diárias de mortalidade por doenças respiratórias em lactentes e crianças, em relação aos níveis de PM10 e O<sub>3</sub>. Foram explorados modelos de atraso de desaceleração de polinômios limitados únicos e desfasados. As análises foram realizadas para cada faixa etária e cada cidade. A meta-análise de efeitos fixos e aleatórios foi realizada de modo a combinar os resultados específicos da cidade em uma única estimativa.
 
-Essas cidades receberam quase 43 milhões de pessoas e os níveis de poluição estavam acima das diretrizes da OMS. Para PM10, o aumento percentual do risco de morte, devido as doenças respiratórias, em lactentes em um modelo de efeito fixo foi de 0,47%. Para as mortes respiratórias em crianças de 1 à 5 anos, o aumento de risco foi de 0,58%, observando-se maior efeito nas infecções respiratórias inferiores (LRI) em crianças de 1 à 14 anos, sendo de 1,38%. Para O<sub>3</sub>, a única estimativa resumida estatisticamente significante foi para LRI em lactentes. A análise por temporada mostrou efeitos de O<sub>3</sub> no verão para doenças respiratórias em lactentes, enquanto os efeitos negativos foram observados para as mortes respiratórias e LRI em crianças.
+Faixa etária | Aumento do risco de morte para PM10 devido as doenças respiratórias
+--- | ---
+Lactentes | 0,47%
+Crianças de 1 a 5 anos | 0,58%
+
+Observando-se maior efeito nas infecções respiratórias inferiores (LRI) em crianças de 1 a 14 anos, sendo de 1,38%. Para O3, a única estimativa resumida estatisticamente significante foi para LRI em lactentes. A análise por temporada mostrou efeitos de O<sub>3</sub> no verão para doenças respiratórias em lactentes, enquanto os efeitos negativos foram observados para as mortes respiratórias e LRI em crianças.
 
 Foram demonstradas estimativas de mortalidade, em relação ao impacto dos poluentes atmosféricos em todas essas cidades e grupos etários. Esta informação é importante, pois muitas políticas públicas destinadas a prevenir os efeitos adversos da poluição na saúde consideram as crianças como o grupo populacional que merece a maior proteção.
 
