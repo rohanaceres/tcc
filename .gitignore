@@ -16,5 +16,12 @@ _book
 *.pdf
 
 # Custom
-
 .DS_Store
+
+# LaTeX compiling files:
+*.aux
+*.idx
+*.lof
+*.log
+*.lot
+*.toc
