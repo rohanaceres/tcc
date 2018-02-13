@@ -1,0 +1,389 @@
+%\title{Modelo de Projeto de pesquisa}
+%% abtex2-modelo-projeto-pesquisa.tex, v-1.9 laurocesar
+%% Copyright 2012-2013 by abnTeX2 group at http://abntex2.googlecode.com/ 
+%%
+%% This work may be distributed and/or modified under the
+%% conditions of the LaTeX Project Public License, either version 1.3
+%% of this license or (at your option) any later version.
+%% The latest version of this license is in
+%%   http://www.latex-project.org/lppl.txt
+%% and version 1.3 or later is part of all distributions of LaTeX
+%% version 2005/12/01 or later.
+%%
+%% This work has the LPPL maintenance status `maintained'.
+%% 
+%% The Current Maintainer of this work is the abnTeX2 team, led
+%% by Lauro César Araujo. Further information are available on 
+%% http://abntex2.googlecode.com/
+%%
+%% This work consists of the files abntex2-modelo-projeto-pesquisa.tex
+%% and abntex2-modelo-references.bib
+%%
+
+% ------------------------------------------------------------------------
+% ------------------------------------------------------------------------
+% abnTeX2: Modelo de Projeto de pesquisa em conformidade com 
+% ABNT NBR 15287:2011 Informação e documentação - Projeto de pesquisa -
+% Apresentação 
+% ------------------------------------------------------------------------ 
+% ------------------------------------------------------------------------
+
+\documentclass[
+	% -- opções da classe memoir --
+	12pt,				% tamanho da fonte
+	openright,			% capítulos começam em pág ímpar (insere página vazia caso preciso)
+	twoside,			% para impressão em verso e anverso. Oposto a oneside
+	a4paper,			% tamanho do papel. 
+	% -- opções da classe abntex2 --
+	%chapter=TITLE,		% títulos de capítulos convertidos em letras maiúsculas
+	%section=TITLE,		% títulos de seções convertidos em letras maiúsculas
+	%subsection=TITLE,	% títulos de subseções convertidos em letras maiúsculas
+	%subsubsection=TITLE,% títulos de subsubseções convertidos em letras maiúsculas
+	% -- opções do pacote babel --
+	english,			% idioma adicional para hifenização
+	french,				% idioma adicional para hifenização
+	spanish,			% idioma adicional para hifenização
+	brazil,				% o último idioma é o principal do documento
+	]{abntex2}
+
+% ---
+% PACOTES
+% ---
+
+% ---
+% Pacotes fundamentais 
+% ---
+\usepackage{lmodern}			% Usa a fonte Latin Modern
+\usepackage[T1]{fontenc}		% Selecao de codigos de fonte.
+\usepackage[utf8]{inputenc}		% Codificacao do documento (conversão automática dos acentos)
+\usepackage{indentfirst}		% Indenta o primeiro parágrafo de cada seção.
+\usepackage{color}				% Controle das cores
+\usepackage{graphicx}			% Inclusão de gráficos
+\usepackage{microtype} 			% para melhorias de justificação
+\usepackage{subcaption}			% para legenda de imagens
+\usepackage{textcomp}
+\usepackage{siunitx}
+
+
+% ---
+
+% ---
+% Referência às imagens usadas no projeto:
+% ---
+\graphicspath{ {img/} }
+% ---
+
+% ---
+% Caracteres especiais:
+% ---
+\sisetup{math-micro=\text{µ},text-micro=µ}
+
+% ---
+% Pacotes adicionais, usados apenas no âmbito do Modelo Canônico do abnteX2
+% ---
+\usepackage{lipsum}				% para geração de dummy text
+% ---
+
+% ---
+% Pacotes de citações
+% ---
+\usepackage[brazilian,hyperpageref]{backref}	 % Paginas com as citações na bibl
+\usepackage[alf]{abntex2cite}	% Citações padrão ABNT
+
+% --- 
+% CONFIGURAÇÕES DE PACOTES
+% --- 
+
+% ---
+% Configurações do pacote backref
+% Usado sem a opção hyperpageref de backref
+\renewcommand{\backrefpagesname}{Citado na(s) página(s):~}
+% Texto padrão antes do número das páginas
+\renewcommand{\backref}{}
+% Define os textos da citação
+\renewcommand*{\backrefalt}[4]{
+	\ifcase #1 %
+		Nenhuma citação no texto.%
+	\or
+		Citado na página #2.%
+	\else
+		Citado #1 vezes nas páginas #2.%
+	\fi}%
+% ---
+
+% ---
+% Informações de dados para CAPA e FOLHA DE ROSTO
+% ---
+\titulo{Trabalho de conclusão de curso}
+\autor{Ceres Rohana e Thaynara Santos}
+\local{Brasil}
+\data{2017, v-1.0}
+\instituicao{%
+  Instituto Infnet
+  \par
+  Faculdade de Engenharia da Computação}
+\tipotrabalho{Trabalho de Conclusão de Curso}
+% O preambulo deve conter o tipo do trabalho, o objetivo, 
+% o nome da instituição e a área de concentração 
+\preambulo{Sistema de monitoramento de gases poluentes com o uso de bicicletas}
+% ---
+
+% ---
+% Configurações de aparência do PDF final
+
+% alterando o aspecto da cor azul
+\definecolor{blue}{RGB}{41,5,195}
+
+% informações do PDF
+\makeatletter
+\hypersetup{
+     	%pagebackref=true,
+		pdftitle={\@title}, 
+		pdfauthor={\@author},
+    	pdfsubject={\imprimirpreambulo},
+	    pdfcreator={LaTeX with abnTeX2},
+		pdfkeywords={abnt}{latex}{abntex}{abntex2}{projeto de pesquisa}, 
+		colorlinks=true,       		% false: boxed links; true: colored links
+    	linkcolor=blue,          	% color of internal links
+    	citecolor=blue,        		% color of links to bibliography
+    	filecolor=magenta,      		% color of file links
+		urlcolor=blue,
+		bookmarksdepth=4
+}
+\makeatother
+% --- 
+
+% --- 
+% Espaçamentos entre linhas e parágrafos 
+% --- 
+
+% O tamanho do parágrafo é dado por:
+\setlength{\parindent}{1.3cm}
+
+% Controle do espaçamento entre um parágrafo e outro:
+\setlength{\parskip}{0.2cm}  % tente também \onelineskip
+
+% ---
+% compila o indice
+% ---
+\makeindex
+% ---
+
+% ----
+% Início do documento
+% ----
+\begin{document}
+
+% Retira espaço extra obsoleto entre as frases.
+\frenchspacing 
+
+% ----------------------------------------------------------
+% ELEMENTOS PRÉ-TEXTUAIS
+% ----------------------------------------------------------
+% \pretextual
+
+% ---
+% Capa
+% ---
+\imprimircapa
+% ---
+
+% ---
+% Folha de rosto
+% ---
+\imprimirfolhaderosto
+% ---
+
+% ---
+% Inserir lista de ilustrações
+% ---
+% \pdfbookmark[0]{\listfigurename}{lof}
+% \listoffigures*
+% \cleardoublepage
+% ---
+
+% ---
+% Inserir lista de tabelas
+% ---
+% \pdfbookmark[0]{\listtablename}{lot}
+% \listoftables*
+% \cleardoublepage
+% ---
+
+% ---
+% Inserir lista de abreviaturas e siglas
+% ---
+% \begin{siglas}
+%   \item[Fig.] Area of the $i^{th}$ component
+%   \item[456] Isto é um número
+%   \item[123] Isto é outro número
+%   \item[lauro cesar] este é o meu nome
+% \end{siglas}
+% ---
+
+% ---
+% Inserir lista de símbolos
+% ---
+% \begin{simbolos}
+%   \item[$ \Gamma $] Letra grega Gama
+%   \item[$ \Lambda $] Lambda
+%   \item[$ \zeta $] Letra grega minúscula zeta
+%   \item[$ \in $] Pertence
+% \end{simbolos}
+% ---
+
+% ---
+% Inserir o sumário
+% ---
+\pdfbookmark[0]{\contentsname}{toc}
+\tableofcontents*
+\cleardoublepage
+% ---
+
+% ----------------------------------------------------------
+% ELEMENTOS TEXTUAIS
+% ----------------------------------------------------------
+\textual
+
+% ----------------------------------------------------------
+% Introdução
+% ----------------------------------------------------------
+\chapter*[Introdução]{Introdução}
+\addcontentsline{toc}{chapter}{Introdução}
+\input{chapters/introduction}
+
+% ----------------------------------------------------------
+% Capítulo 1: Breve resumo histórico
+% ----------------------------------------------------------
+\chapter{Breve resumo histórico}
+\input{chapters/chapter1-historical-summary}
+
+% ----------------------------------------------------------
+% Capítulo 2: Proposição do problema
+% ----------------------------------------------------------
+\chapter{Proposição do problema}
+\input{chapters/chapter2-problem-proposition}
+
+% ----------------------------------------------------------
+% Capítulo 3: Solução proposta
+% ----------------------------------------------------------
+\chapter{Solução proposta}
+\input{chapters/chapter3-solution-proposition}
+
+% ----------------------------------------------------------
+% Capitulo de textual  
+% ----------------------------------------------------------
+% \chapter{Elementos textuais}
+
+% \index{elementos textuais}A norma ABNT NBR 15287:2011, p. 5, apresenta a
+% seguinte orientação quanto aos elementos textuais:
+
+% \begin{citacao}
+% O texto deve ser constituído de uma parte introdutória, na qual devem ser
+% expostos o tema do projeto, o problema a ser abordado, a(s) hipótese(s),
+% quando couber(em), bem como o(s) objetivo(s) a ser(em) atingido(s) e a(s)
+% justificativa(s). É necessário que sejam indicados o referencial teórico que
+% o embasa, a metodologia a ser utilizada, assim como os recursos e o cronograma
+% necessários à sua consecução.
+% \end{citacao}
+
+% Consulte as demais normas da série ``Informação e documentação'' da ABNT
+% para outras informações. Uma lista com as principais normas dessa série, todas
+% observadas pelo \abnTeX, é apresentada em \citeonline{abntex2classe}.
+
+% ---
+% Conclusão
+% ---
+% \chapter*[Considerações finais]{Considerações finais}
+% \addcontentsline{toc}{chapter}{Considerações finais}
+
+% \lipsum[31-33]
+
+% ----------------------------------------------------------
+% ELEMENTOS PÓS-TEXTUAIS
+% ----------------------------------------------------------
+% \postextual
+
+% ----------------------------------------------------------
+% Referências bibliográficas
+% ----------------------------------------------------------
+% \bibliography{abntex2-modelo-references}
+
+% ----------------------------------------------------------
+% Glossário
+% ----------------------------------------------------------
+%
+% Consulte o manual da classe abntex2 para orientações sobre o glossário.
+%
+%\glossary
+
+% ----------------------------------------------------------
+% Apêndices
+% ----------------------------------------------------------
+
+% ---
+% Inicia os apêndices
+% ---
+% \begin{apendicesenv}
+
+% Imprime uma página indicando o início dos apêndices
+% \partapendices
+
+% ----------------------------------------------------------
+% \chapter{Quisque libero justo}
+% ----------------------------------------------------------
+
+% \lipsum[50]
+
+% ----------------------------------------------------------
+% \chapter{Nullam elementum urna vel imperdiet sodales elit ipsum pharetra ligula
+% ac pretium ante justo a nulla curabitur tristique arcu eu metus}
+% ----------------------------------------------------------
+% \lipsum[55-57]
+
+% \end{apendicesenv}
+% ---
+
+
+% ----------------------------------------------------------
+% Anexos
+% ----------------------------------------------------------
+
+% ---
+% Inicia os anexos
+% ---
+% \begin{anexosenv}
+
+% Imprime uma página indicando o início dos anexos
+% \partanexos
+
+% ---
+% \chapter{Morbi ultrices rutrum lorem.}
+% ---
+% \lipsum[30]
+
+% ---
+% \chapter{Cras non urna sed feugiat cum sociis natoque penatibus et magnis dis
+% parturient montes nascetur ridiculus mus}
+% ---
+
+% \lipsum[31]
+
+% ---
+% \chapter{Fusce facilisis lacinia dui}
+% ---
+
+% \lipsum[32]
+
+% \end{anexosenv}
+
+%---------------------------------------------------------------------
+% INDICE REMISSIVO
+%---------------------------------------------------------------------
+
+% \phantompart
+
+% \printindex
+
+
+\end{document}
